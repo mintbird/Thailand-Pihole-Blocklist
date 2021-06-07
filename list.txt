@@ -21,3 +21,7 @@ bidsxplayer.com
 api.u1sf.com
 www.googletagservices.com
 googletagservices.com
+frukt.pantip.com	
+ads.pantip.com	
+adservice.google.co.th.home	
+crs-event.line.me
