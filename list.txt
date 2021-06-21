@@ -25,3 +25,5 @@ frukt.pantip.com
 ads.pantip.com	
 adservice.google.co.th.home	
 crs-event.line.me
+cdn.livechatinc.com
+api.livechatinc.com
