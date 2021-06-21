@@ -27,3 +27,4 @@ adservice.google.co.th.home
 crs-event.line.me
 cdn.livechatinc.com
 api.livechatinc.com
+cdn.thelead.tech
