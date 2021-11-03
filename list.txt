@@ -28,3 +28,5 @@ crs-event.line.me
 cdn.livechatinc.com
 api.livechatinc.com
 cdn.thelead.tech
+btrace.wetvinfo.com
+vtrace.wetvinfo.com
