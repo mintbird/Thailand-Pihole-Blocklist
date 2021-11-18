@@ -30,3 +30,6 @@ api.livechatinc.com
 cdn.thelead.tech
 btrace.wetvinfo.com
 vtrace.wetvinfo.com
+adnlog.ais.co.th
+api.cxense.com
+cdn.cxense.com
