@@ -32,3 +32,8 @@ vtrace.wetvinfo.com
 adnlog.ais.co.th
 api.cxense.com
 cdn.cxense.com
+fingerprint.aedi.ai
+thlog.aedi.ai
+thcl.aedi.ai
+thapi.aedi.ai
+thmagic.aedi.ai
